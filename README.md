@@ -3,6 +3,9 @@
 <p align="center">
 Página pessoal desenvolvida para completar desafio de desenvolvimento do processo seletivo 2024.1 do CITI <br/>
 
+<p align="center">
+  <img alt="projeto minha página" src="./images/minha-pagina.jpeg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
